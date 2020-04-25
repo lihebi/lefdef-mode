@@ -18,7 +18,8 @@
     "SPACINGTABLE" "PARALLELRUNLENGTH" "AREA" "MINENCLOSEDAREA"
     "MINIMUMCUT" "LENGTH" "WITHIN" "SPACING" "DATABASE" "MANUFACTURINGGRID"
     "PROPERTYDEFINITIONS" "STRING" "LIBRARY" "VIA" "VIARULE" "ENCLOSURE"
-    "MAXVIASTACK" "RANGE" "TO" "COMPONENTS")
+    "MAXVIASTACK" "RANGE" "TO" "COMPONENTS"
+    "CAPACITANCE" "PICOFARADS")
   ;; additional font lock list font-lock-keywords
   ;; candidtates: font-lock-type-face, font-lock-warning-face, font-lock-variable-name-face
   '(("\\(?:ROW\\|LAYER\\|END\\|MACRO\\|LIBRARY\\|VIA\\|VIARULE\\|SITE\\) \\([a-z_A-Z0-9]+\\)"
